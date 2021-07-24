@@ -1,3 +1,67 @@
 body{
     font-family: 'Indie Flower', cursive;
+    margin: 0;
+}
+.text-highlight{
+    color: chocolate;
+}
+h1{
+    font-size: 50px;
+}
+.flex-section{
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+p{
+    font-weight: 700;
+    color: lightseagreen;
+}
+.link-design{
+    text-decoration: none;
+    color: darkred;
+    font-weight: 900;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: 0 dashed red;
+    background-color: hotpink;
+    background-image: linear-gradient(to top right, pink, purple);
+}
+h3{
+    font-size: 40px;
+}
+.paw-up{
+    background-image: url(images/top-banner-bg.png);
+    background-repeat: no-repeat;
+}
+.cat-laptop{
+    background-image: url(images/cat-laptop-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#hungry-cat{
+    text-align: center;
+}
+.cat-eats{
+    border-left: 5px solid red ;
+    border-radius: 10px;
+    border-image: linear-gradient(180deg, orange, red);
+    border-image-slice: 30;
+    margin: 3%;
+    box-shadow: 10px 15px 30px cyan;
+}
+.bottoom-section{
+    background-image: url(images/cat-eat-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
