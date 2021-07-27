@@ -37,7 +37,7 @@ h3{
     font-size: 40px;
 }
 .paw-up{
-    background-image: url(images/top-banner-bg.png);
+    background-image: url(images/cat-paw-up-bg.png);
     background-repeat: no-repeat;
 }
 .cat-laptop{
@@ -54,7 +54,7 @@ h3{
     box-shadow: 10px 15px 30px cyan;
 }
 .bottoom-section{
-    background-image: url(images/cat-eat-bg.png);
+    background-image: url(images/cat-eats-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
