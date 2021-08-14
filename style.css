@@ -1,9 +1,8 @@
 body{
-    font-family: 'Indie Flower', cursive;
+    font-family: sans-serif;
     margin: 0;
 }
 .text-highlight{
-    color: chocolate;
 }
 h1{
     font-size: 50px;
@@ -51,7 +50,7 @@ h3{
     border-image: linear-gradient(180deg, orange, red);
     border-image-slice: 30;
     margin: 3%;
-    box-shadow: 10px 15px 30px cyan;
+    box-shadow: 20px 20px 20px lightblue;
 }
 .bottoom-section{
     background-image: url(images/cat-eats-bg.png);
